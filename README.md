@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oumaima-boulahfa&label=Profile%20views&color=0e75b6&style=flat" alt="oumaima-boulahfa" /> </p>
 
-- 🔭 I’m currently working on **Site web Education**
 
-- 🌱 I’m currently learning **React ,Laravel**
+
+
 
 - 💬 Ask me about **front end ,back end**
 
-- 📫 How to reach me **oumaimaboulahfa85@gmail.com**
+- 📫 How to reach me **oumaimaboulahfa59@gmail.com**
 
 - ⚡ Fun fact **I am funny**
 
